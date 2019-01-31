@@ -1,1 +1,1 @@
-# Prediction Assignment Writeup
+https://mlyasheva.github.io/Prediction-Assignment-Writeup/
